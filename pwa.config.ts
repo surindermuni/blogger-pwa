@@ -17,17 +17,16 @@ export default {
   preferRelatedApplications: false,
   shortcuts: [
     {
-      name: 'Silent Mysteries Part 1',
-      shortName: 'Part 1',
-      description: 'जब हम सीमाएँ पार करते हुए जीवन-मरण के द्वार से आगे
-  बढ़ते हैं—तो क्या वहाँ भी सत्ता, पद और शिक्षा का क्रम रहता है?',
-      url: '/search/label/Silent%20Mysteries?utm_source=homescreen',
+      name: 'पृथ्वी से ब्रह्मांड तक: सत्ता, पद और आधिपत्य का गहन रहस्य',
+      shortName: 'Silent Mysteries Chapter-1',
+      description: 'जब हम सीमाएँ पार करते हुए जीवन-मरण के द्वार से आगे बढ़ते हैं—तो क्या वहाँ भी सत्ता, पद और शिक्षा का क्रम रहता है',
+      url: '/search/label/Silence%20Mysteries?utm_source=homescreen',
     },
     {
-      name: 'Silent Mysteries Part 1',
-      shortName: 'Part 2',
-      description: 'मनुष्य जब धरती पर जन्म लेता है, तो उसकी दृष्टि आरंभ में बहुत सीमित होती है..',
-      url: '/search/label/Silent%20Mysteries?utm_source=homescreen',
+      name: 'Mystery of Life Consciousness Infinity',
+      shortName: 'Silent Mysteries Chapter-2',
+      description: 'A profound exploration into the secrets of life, consciousness, and the infinite beyond.',
+      url: '/search/label/Life%20&%20Consciousness?utm_source=homescreen',
     },
   ],
   pwa: {
