@@ -1,13 +1,13 @@
 {
-  "name": "My Blog",
+  "name": "Silent Mysteries",
   "id": "/",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "short_name": "Silent Mysteries",
+  "description": "My journey began with a deep curiosity about life, existence, and the secrets beyond the visible world — which naturally led me into the realms of astrology, spirituality, and cosmic mysteries.",
   "dir": "auto",
   "lang": "en-US",
   "orientation": "natural",
-  "start_url": "https://hello-example.blogspot.com/?utm_source=homescreen",
-  "scope": "https://hello-example.blogspot.com/",
+  "start_url": "http://the-silent-mysteries.blogspot.com/?utm_source=homescreen",
+  "scope": "http://the-silent-mysteries.blogspot.com/",
   "display": "standalone",
   "prefer_related_applications": false,
   "background_color": "#fff",
@@ -115,10 +115,10 @@
   ],
   "shortcuts": [
     {
-      "name": "Shortcut 1",
-      "short_name": "Shortcut 1",
-      "description": "Shortcut 1 description goes here...",
-      "url": "https://hello-example.blogspot.com/search/label/shortcut-1?utm_source=homescreen",
+      "name": "पृथ्वी से ब्रह्मांड तक: सत्ता, पद और आधिपत्य का गहन रहस्य",
+      "short_name": "Silent Mysteries Chapter-1",
+      "description": "जब हम सीमाएँ पार करते हुए जीवन-मरण के द्वार से आगे बढ़ते हैं—तो क्या वहाँ भी सत्ता, पद और शिक्षा का क्रम रहता है?",
+      "url": "https://the-silent-mysteries.blogspot.com/search/label/Silence%20Mysteries?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
@@ -127,10 +127,10 @@
       ]
     },
     {
-      "name": "Shortcut 2",
-      "short_name": "Shortcut 2",
-      "description": "Shortcut 2 description goes here...",
-      "url": "https://hello-example.blogspot.com/search/label/shortcut-2?utm_source=homescreen",
+      "name": "Mystery of Life Consciousness Infinity",
+      "short_name": "Silent Mysteries Chapter-2",
+      "description": "A profound exploration into the secrets of life, consciousness, and the infinite beyond.",
+      "url": "https://the-silent-mysteries.blogspot.com/search/label/Life%20&%20Consciousness?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
