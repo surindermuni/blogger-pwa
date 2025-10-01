@@ -73,7 +73,7 @@ const OUT_CDN_METATAGS_NO_SPLASH = `${OUT_DIR}/cdn-metatags-no-splash.html`;
 const INDEX_HTML = `${BUCKET_DIR}/index.html`;
 const OFFLINE_HTML = `${APP_DIR}/offline/index.html`;
 
-log('✨ Blogger PWA Builder by Fineshop Design');
+log('✨ Silent Mysteries (The Secret of the Universe');
 log(clc.redBright('-----------------------------------------\n'));
 
 /* Write metadata ts */
