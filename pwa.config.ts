@@ -19,13 +19,14 @@ export default {
     {
       name: 'Silent Mysteries Part 1',
       shortName: 'Part 1',
-      description: 'Shortcut 1 description goes here...',
+      description: 'जब हम सीमाएँ पार करते हुए जीवन-मरण के द्वार से आगे
+  बढ़ते हैं—तो क्या वहाँ भी सत्ता, पद और शिक्षा का क्रम रहता है?',
       url: '/search/label/Silent%20Mysteries?utm_source=homescreen',
     },
     {
       name: 'Silent Mysteries Part 1',
       shortName: 'Part 2',
-      description: 'Shortcut 2 description goes here...',
+      description: 'मनुष्य जब धरती पर जन्म लेता है, तो उसकी दृष्टि आरंभ में बहुत सीमित होती है..',
       url: '/search/label/Silent%20Mysteries?utm_source=homescreen',
     },
   ],
