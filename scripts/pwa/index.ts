@@ -50,7 +50,7 @@ if ('serviceWorker' in navigator) {
       if (registration?.active?.scriptURL) {
         logs.push([`Script:  ${registration.active.scriptURL}`]);
       }
-      logs.push(['Build by: Fineshop Design (https://fineshopdesign.com)']);
+      logs.push(['Thanks: Silent Mysteries (The Secret of the Universe)']);
 
       groupLog(['%c[sw] Registered successfully', 'color: green'], logs);
     })
